@@ -2,4 +2,6 @@
 
 namespace Christoferd\ObjectiveLibraries;
 
-class ObjectiveLibrariesClass {}
+class ObjectiveLibrariesClass
+{
+}
